@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil</title>
+</head>
+<body>
+    <h1>Nome do Aluno</h1>
+    <p>Nome: Otávio Haagsma Patrzyk</p>
+    <p>Número: 27</p>
+    <p>Turma: 2º Ano B de Exatas</p>
+</body>
+</html>
